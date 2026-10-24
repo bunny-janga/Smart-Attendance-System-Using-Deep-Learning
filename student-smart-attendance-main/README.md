@@ -1,4 +1,4 @@
-# Smart Attendance System
+# Smart-Attendance-System-using-Deep-Learning
 
 AI-powered face recognition attendance system with admin panel, analytics, and automatic late detection.
 
